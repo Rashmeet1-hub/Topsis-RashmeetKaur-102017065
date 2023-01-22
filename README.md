@@ -7,4 +7,4 @@ This package will accept three arguments during file execution:
 install pandas,sys,operator and math libraries before installing this
 //
 You can install this package using following command
-pip install Topsis_SimranMalik_102003680
+pip install Topsis_RashmeetKaur_102017065
